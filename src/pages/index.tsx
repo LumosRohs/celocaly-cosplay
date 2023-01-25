@@ -21,7 +21,7 @@ export default function Home() {
         <div className="mx-auto max-w-screen-lg px-3 py-12">
           <div className="flex flex-col-reverse gap-y-12 items-center md:flex-row md:justify-between md:gap-x-24 mb-8">
             <div>
-              <div className="text-4xl font-bold">
+              <div className="text-3xl md:text-4xl lg:text-4xl font-bold">
                 Hi there, I&#39;m <span className="bg-gradient-to-br from-pink-500 to-purple-400 bg-clip-text text-transparent">Celocaly</span> 👋
               </div>
               <p className="mt-4 text-xl leading-9 whitespace-pre-line text-grey-600">
@@ -56,7 +56,7 @@ export default function Home() {
         </div>
 
       </div>
-      <div className="mx-auto max-w-screen-lg px-3 py-12 pb-28">
+      <div className="mx-auto max-w-screen-lg px-3 py-24 pb-28">
         <div className="mb-12 text-3xl font-bold">
           Recent <span className="bg-gradient-to-br from-pink-500 to-purple-400 bg-clip-text text-transparent">Cosplay</span>
         </div>
@@ -200,7 +200,7 @@ export default function Home() {
         </div>
       </div>
       <div className="bg-pink-100 text-gray-700">
-        <div className="mx-auto max-w-screen-lg px-3 py-12 pb-32">
+        <div className="mx-auto max-w-screen-lg px-3 py-24 pb-32">
           <div className="mb-12 text-3xl font-bold">
             My <span className="bg-gradient-to-br from-pink-500 to-purple-400 bg-clip-text text-transparent">Cosplan</span>
           </div>
