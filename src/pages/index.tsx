@@ -33,7 +33,7 @@ export default function Home() {
               <div className="mt-6 flex gap-1">
                 <a href='https://www.instagram.com/celocaly/' target="_blank" rel="noopener noreferrer">
                   <Image
-                    className="instagram h-12 w-auto hover:translate-y-1"
+                    className="instagram h-12 w-auto"
                     src="/assets/images/button.svg"
                     loading="lazy"
                     alt='instagram'
@@ -80,7 +80,7 @@ export default function Home() {
             </p>
             <a href='https://www.instagram.com/p/ClycjjWB-FV/' target="_blank" rel="noopener noreferrer" className="mt-6">
               <Image
-                className="instagram h-12 w-auto hover:translate-y-1"
+                className="instagram h-12 w-auto"
                 src="/assets/images/button.svg"
                 loading="lazy"
                 alt='instagram cosplay 1'
@@ -107,7 +107,7 @@ export default function Home() {
             </p>
             <a href='https://www.instagram.com/p/CnMUpOYhATV/' target="_blank" rel="noopener noreferrer" className="mt-6">
               <Image
-                className="instagram h-12 w-auto hover:translate-y-1"
+                className="instagram h-12 w-auto"
                 src="/assets/images/button.svg"
                 loading="lazy"
                 alt='instagram cosplay 2'
@@ -135,7 +135,7 @@ export default function Home() {
             </p>
             <a href='https://www.instagram.com/celocaly/' target="_blank" rel="noopener noreferrer" className="mt-6">
               <Image
-                className="instagram h-12 w-auto hover:translate-y-1"
+                className="instagram h-12 w-auto"
                 src="/assets/images/button.svg"
                 loading="lazy"
                 alt='instagram cosplay 1'
@@ -162,7 +162,7 @@ export default function Home() {
             </p>
             <a href='https://www.instagram.com/celocaly/' target="_blank" rel="noopener noreferrer" className="mt-6">
               <Image
-                className="instagram h-12 w-auto hover:translate-y-1"
+                className="instagram h-12 w-auto"
                 src="/assets/images/button.svg"
                 loading="lazy"
                 alt='instagram cosplay 1'
@@ -189,7 +189,7 @@ export default function Home() {
             </p>
             <a href='https://www.instagram.com/p/CmWYBYQLym0/' target="_blank" rel="noopener noreferrer" className="mt-6">
               <Image
-                className="instagram h-12 w-auto hover:translate-y-1"
+                className="instagram h-12 w-auto"
                 src="/assets/images/button.svg"
                 loading="lazy"
                 alt='instagram cosplay 1'
