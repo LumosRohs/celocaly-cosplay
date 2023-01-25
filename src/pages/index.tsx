@@ -38,7 +38,7 @@ export default function Home() {
               <div className="mt-6 flex gap-4">
                 <a href='https://www.instagram.com/celocaly/' target="_blank" rel="noopener noreferrer">
                   <Image
-                    className="instagram h-12 w-auto ease-out duration-300 delay-150"
+                    className="instagram h-12 w-auto ease-in duration-300 delay-150"
                     src="/assets/images/button.svg"
                     loading="lazy"
                     alt='instagram'
@@ -47,7 +47,7 @@ export default function Home() {
                 </a>
                 <a href='https://trakteer.id/celocaly' target="_blank" rel="noopener noreferrer">
                   <Image
-                    className="trakteer h-12 w-auto ease-out duration-300 delay-150"
+                    className="trakteer h-12 w-auto ease-in duration-300 delay-150"
                     src="/assets/images/trakteer.svg"
                     loading="lazy"
                     alt='trakteer'
@@ -78,23 +78,23 @@ export default function Home() {
           <div className="flex flex-col">
             <div className="aspect-w-3 aspect-h-2">
               <Image
-                className="h-full w-full object-cover object-center hover:translate-y-1"
+                className="h-full w-full object-cover object-center hover:scale-105 ease-in duration-300 delay-150"
                 src="/assets/images/cos1.jpg"
                 alt="cosplay1"
                 loading='lazy'
                 width={2598}
                 height={4618} />
             </div>
-            <div className="text-xl font-semibold mt-2">
+            <div className="text-xl font-semibold mt-4">
               Female Ryomen Sukuna
             </div>
-            <p className="mt-4 leading-5 text-sm text-grey-600">
+            <p className="mt-2 leading-5 text-sm text-grey-600">
               Ryomen Sukuna merupakan salah satu kutukan terkuat dalam anime Jujutsu Kaisen.
               Kutukan yang bersemayam dalam tubuh Yuji Itadori ini diceritakan sebagai salah satu makhluk paling ditakuti oleh penyihir Jujutsu.
             </p>
             <a href='https://www.instagram.com/p/ClycjjWB-FV/' target="_blank" rel="noopener noreferrer" className="mt-6">
               <Image
-                className="instagram h-12 w-auto ease-out duration-300 delay-150"
+                className="instagram h-12 w-auto hover:scale-105 ease-in duration-300 delay-150"
                 src="/assets/images/button.svg"
                 loading="lazy"
                 alt='instagram cosplay 1'
@@ -105,23 +105,23 @@ export default function Home() {
           <div className="flex flex-col mt-20 ml-0 mb:ml-12 lg:ml-12">
             <div className="aspect-w-3 aspect-h-2 col-span-1">
               <Image
-                className="h-full w-full object-cover object-center hover:translate-y-1"
+                className="h-full w-full object-cover object-center hover:scale-105 ease-in duration-300 delay-150"
                 src="/assets/images/cos2.jpg"
                 alt="cosplay1"
                 loading='lazy'
                 width={2598}
                 height={4618} />
             </div>
-            <div className="text-xl font-semibold mt-2">
+            <div className="text-xl font-semibold mt-4">
               Asa Mitaka / Yoru
             </div>
-            <p className="mt-4 leading-5 text-sm text-grey-600">
+            <p className="mt-2 leading-5 text-sm text-grey-600">
               Asa Mitaka merupakan seorang siswi SMA yang pada awalnya manusia, dan kemudian di jadikan wadah (fiend) oleh War Devil (Yoru).
               Dia adalah protagonis wanita di serial Chainsaw Man pada Academy Saga arc.
             </p>
             <a href='https://www.instagram.com/p/CnMUpOYhATV/' target="_blank" rel="noopener noreferrer" className="mt-6">
               <Image
-                className="instagram h-12 w-auto ease-out duration-300 delay-150"
+                className="instagram h-12 w-auto hover:scale-105 ease-in duration-300 delay-150"
                 src="/assets/images/button.svg"
                 loading="lazy"
                 alt='instagram cosplay 2'
@@ -132,24 +132,24 @@ export default function Home() {
           <div className="flex flex-col mt-20 md:mt-0 lg:mt-0">
             <div className="aspect-w-3 aspect-h-2">
               <Image
-                className="h-full w-full object-cover object-center hover:translate-y-1"
+                className="h-full w-full object-cover object-center hover:scale-105 ease-in duration-300 delay-150"
                 src="/assets/images/cos5.jpg"
                 alt="cosplay4"
                 loading='lazy'
                 width={2598}
                 height={4618} />
             </div>
-            <div className="text-xl font-semibold mt-2">
+            <div className="text-xl font-semibold mt-4">
               Yosano Akiko
             </div>
-            <p className="mt-4 leading-5 text-sm text-grey-600">
+            <p className="mt-2 leading-5 text-sm text-grey-600">
               Yosano Akiko, anggota dan dokter dari Agensi Detektif Bersenjata.
               Memiliki kemampuan yang dapat menyembuhkan semua luka.
               Namun, kemampuannya hanya dapat digunakan untuk menyembuhkan luka yang mematikan.
             </p>
             <a href='https://www.instagram.com/celocaly/' target="_blank" rel="noopener noreferrer" className="mt-6">
               <Image
-                className="instagram h-12 w-auto ease-out duration-300 delay-150"
+                className="instagram h-12 w-auto hover:scale-105 ease-in duration-300 delay-150"
                 src="/assets/images/button.svg"
                 loading="lazy"
                 alt='instagram cosplay 1'
@@ -160,23 +160,23 @@ export default function Home() {
           <div className="flex flex-col mt-20">
             <div className="aspect-w-3 aspect-h-2">
               <Image
-                className="h-full w-full object-cover object-center hover:translate-y-1"
+                className="h-full w-full object-cover object-center hover:scale-105 ease-in duration-300 delay-150"
                 src="/assets/images/cos4.jpg"
                 alt="cosplay4"
                 loading='lazy'
                 width={2598}
                 height={4618} />
             </div>
-            <div className="text-xl font-semibold mt-2">
+            <div className="text-xl font-semibold mt-4">
               Seifuku
             </div>
-            <p className="mt-4 leading-5 text-sm text-grey-600">
+            <p className="mt-2 leading-5 text-sm text-grey-600">
               Seifuku adalah sebutan bagi seragam sekolah di Jepang.
               Serafuku atau seifuku yang kemudian lebih dikenal dengan sebutan sailor sefuku karena populernya film animasi sailormoon yang berpakaian seifuku adalah salah satu ikon pop kultur di Jepang.
             </p>
             <a href='https://www.instagram.com/celocaly/' target="_blank" rel="noopener noreferrer" className="mt-6">
               <Image
-                className="instagram h-12 w-auto ease-out duration-300 delay-150"
+                className="instagram h-12 w-auto hover:scale-105 ease-in duration-300 delay-150"
                 src="/assets/images/button.svg"
                 loading="lazy"
                 alt='instagram cosplay 1'
@@ -187,23 +187,23 @@ export default function Home() {
           <div className="flex flex-col mt-20 md:mt-0 lg:mt-0 lg:mt-0 mr-0 md:mr-12 lg:mr-12">
             <div className="aspect-w-3 aspect-h-2">
               <Image
-                className="h-full w-full object-cover object-center hover:translate-y-1"
+                className="h-full w-full object-cover object-center hover:scale-105 ease-in duration-300 delay-150"
                 src="/assets/images/cos3.jpg"
                 alt="cosplay1"
                 loading='lazy'
                 width={2598}
                 height={4618} />
             </div>
-            <div className="text-xl font-semibold mt-2">
+            <div className="text-xl font-semibold mt-4">
               Orimoto Rika
             </div>
-            <p className="mt-4 leading-5 text-sm text-grey-600">
+            <p className="mt-2 leading-5 text-sm text-grey-600">
               Orimoto Rika atau lebih sering dipanggil dengan nama Rika-chan adalah tokoh kunci dalam prekuel Jujutsu Kaisen.
               Dia sendiri berperan sebagai roh yang dikutuk sehingga bangkit menjadi monster yang ditakuti para praktisi jujutsu kala itu.
             </p>
             <a href='https://www.instagram.com/p/CmWYBYQLym0/' target="_blank" rel="noopener noreferrer" className="mt-6">
               <Image
-                className="instagram h-12 w-auto ease-out duration-300 delay-150"
+                className="instagram h-12 w-auto hover:scale-105 ease-in duration-300 delay-150"
                 src="/assets/images/button.svg"
                 loading="lazy"
                 alt='instagram cosplay 1'
