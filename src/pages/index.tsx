@@ -312,6 +312,9 @@ export default function Home() {
           </div>
         </div>
       </div>
+      <div className="footer bottom-0 left-0 z-20 w-full p-2 bg-pink-50 text-center font-semibold">
+        <span className="bg-gradient-to-br from-pink-500 to-purple-400 bg-clip-text text-transparent">Created by LumosR</span>
+      </div>
     </>
   )
 }
