@@ -78,7 +78,7 @@ export default function Home() {
           <div className="flex flex-col">
             <div className="aspect-w-3 aspect-h-2">
               <Image
-                className="h-full w-full object-cover object-center hover:scale-105 ease-in duration-300 rounded-2xl"
+                className="h-full w-full object-cover object-center hover:scale-105 ease-in duration-150 rounded-2xl"
                 src="/assets/images/cos1.jpg"
                 alt="cosplay1"
                 loading='lazy'
