@@ -36,9 +36,9 @@ export default function Home() {
                 Karena aku termasuk cosplayer baru, aku sangat menerima saran dari teman-teman, seperti character apa yang mungkin cocok untukku 😊
               </p>
               <div className="mt-6 flex gap-1">
-                <a href='https://www.instagram.com/celocaly/' target="_blank" rel="noopener noreferrer">
+                <a href='https://www.instagram.com/celocaly/' target="_blank" rel="noopener noreferrer" className="transition delay-150 duration-300 ease-in-out">
                   <Image
-                    className="instagram h-12 w-auto"
+                    className="instagram h-12 w-auto ease-out duration-300 delay-150"
                     src="/assets/images/button.svg"
                     loading="lazy"
                     alt='instagram'
@@ -85,7 +85,7 @@ export default function Home() {
             </p>
             <a href='https://www.instagram.com/p/ClycjjWB-FV/' target="_blank" rel="noopener noreferrer" className="mt-6">
               <Image
-                className="instagram h-12 w-auto"
+                className="instagram h-12 w-auto ease-out duration-300 delay-150"
                 src="/assets/images/button.svg"
                 loading="lazy"
                 alt='instagram cosplay 1'
@@ -112,7 +112,7 @@ export default function Home() {
             </p>
             <a href='https://www.instagram.com/p/CnMUpOYhATV/' target="_blank" rel="noopener noreferrer" className="mt-6">
               <Image
-                className="instagram h-12 w-auto"
+                className="instagram h-12 w-auto ease-out duration-300 delay-150"
                 src="/assets/images/button.svg"
                 loading="lazy"
                 alt='instagram cosplay 2'
@@ -140,7 +140,7 @@ export default function Home() {
             </p>
             <a href='https://www.instagram.com/celocaly/' target="_blank" rel="noopener noreferrer" className="mt-6">
               <Image
-                className="instagram h-12 w-auto"
+                className="instagram h-12 w-auto ease-out duration-300 delay-150"
                 src="/assets/images/button.svg"
                 loading="lazy"
                 alt='instagram cosplay 1'
@@ -167,7 +167,7 @@ export default function Home() {
             </p>
             <a href='https://www.instagram.com/celocaly/' target="_blank" rel="noopener noreferrer" className="mt-6">
               <Image
-                className="instagram h-12 w-auto"
+                className="instagram h-12 w-auto ease-out duration-300 delay-150"
                 src="/assets/images/button.svg"
                 loading="lazy"
                 alt='instagram cosplay 1'
@@ -194,7 +194,7 @@ export default function Home() {
             </p>
             <a href='https://www.instagram.com/p/CmWYBYQLym0/' target="_blank" rel="noopener noreferrer" className="mt-6">
               <Image
-                className="instagram h-12 w-auto"
+                className="instagram h-12 w-auto ease-out duration-300 delay-150"
                 src="/assets/images/button.svg"
                 loading="lazy"
                 alt='instagram cosplay 1'
