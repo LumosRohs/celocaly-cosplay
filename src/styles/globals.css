@@ -25,3 +25,8 @@ a {
   box-shadow: 0px 6px 12px rgba(229, 43, 126, 0.4);
   border-radius: 8px;
 }
+
+.trakteer:hover {
+  box-shadow: 0px 6px 12px rgba(220, 38, 38, 0.4);
+  border-radius: 8px;
+}

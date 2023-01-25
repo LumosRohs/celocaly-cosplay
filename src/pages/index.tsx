@@ -19,7 +19,7 @@ export default function Home() {
             <a href='#'><h1 className="font-bold text-3xl bg-gradient-to-br from-pink-500 to-purple-400 bg-clip-text text-transparent">Celocaly</h1></a>
             <div className="nav-link flex gap-x-3 font-medium">
               <a className="hover:text-black" href='https://www.instagram.com/celocaly/' target="_blank" rel="noopener noreferrer">Instagram</a>
-              <a className="hover:text-black" href='#'>Trakteer</a>
+              <a className="hover:text-black" href='https://trakteer.id/celocaly' target="_blank" rel="noopener noreferrer">Trakteer</a>
             </div>
           </div>
         </div>
@@ -35,8 +35,8 @@ export default function Home() {
                 <br />
                 Karena aku termasuk cosplayer baru, aku sangat menerima saran dari teman-teman, seperti character apa yang mungkin cocok untukku 😊
               </p>
-              <div className="mt-6 flex gap-1">
-                <a href='https://www.instagram.com/celocaly/' target="_blank" rel="noopener noreferrer" className="transition delay-150 duration-300 ease-in-out">
+              <div className="mt-6 flex gap-4">
+                <a href='https://www.instagram.com/celocaly/' target="_blank" rel="noopener noreferrer">
                   <Image
                     className="instagram h-12 w-auto ease-out duration-300 delay-150"
                     src="/assets/images/button.svg"
@@ -44,6 +44,15 @@ export default function Home() {
                     alt='instagram'
                     width={193}
                     height={59} />
+                </a>
+                <a href='https://trakteer.id/celocaly' target="_blank" rel="noopener noreferrer">
+                  <Image
+                    className="trakteer h-12 w-auto ease-out duration-300 delay-150"
+                    src="/assets/images/trakteer.svg"
+                    loading="lazy"
+                    alt='trakteer'
+                    width={193}
+                    height={59}/>
                 </a>
               </div>
             </div>
