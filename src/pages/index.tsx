@@ -8,6 +8,11 @@ const inter = Inter({ subsets: ['latin'] })
 export default function Home() {
   return (
     <>
+      <Head>
+        <title>Celocaly</title>
+        <meta name='description' content='Celocaly Cosplay Portfolio' />
+        <link rel="shortcut icon" href="/assets/images/rounded.png" />
+      </Head>
       <div className="bg-pink-100 text-gray-700">
         <div className="mx-auto max-w-screen-lg px-3 py-6">
           <div className="flex justify-between items-center">
