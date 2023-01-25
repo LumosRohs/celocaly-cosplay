@@ -217,8 +217,8 @@ export default function Home() {
                   src="/assets/images/cosplan1.jpg"
                   loading="lazy"
                   alt='cosplan1'
-                  width={1020}
-                  height={688}
+                  width={799}
+                  height={774}
                 />
                 <div className="text-xl font-semibold mt-4 text-center">
                   Marin Kitagawa
@@ -232,8 +232,8 @@ export default function Home() {
                   src="/assets/images/cosplan2.jpg"
                   loading="lazy"
                   alt='cosplan2'
-                  width={1020}
-                  height={688}
+                  width={1092}
+                  height={1093}
                 />
                 <div className="text-xl font-semibold mt-4 text-center">
                   Krul Tepes
@@ -247,8 +247,8 @@ export default function Home() {
                   src="/assets/images/cosplan3.jpg"
                   loading="lazy"
                   alt='cosplan3'
-                  width={1020}
-                  height={688}
+                  width={1055}
+                  height={1013}
                 />
                 <div className="text-xl font-semibold mt-4 text-center">
                   Xiangling
@@ -262,8 +262,8 @@ export default function Home() {
                   src="/assets/images/cosplan4.jpg"
                   loading="lazy"
                   alt='cosplan4'
-                  width={1020}
-                  height={688}
+                  width={698}
+                  height={693}
                 />
                 <div className="text-xl font-semibold mt-4 text-center">
                   Yaoyao
@@ -277,8 +277,8 @@ export default function Home() {
                   src="/assets/images/cosplan5.jpg"
                   loading="lazy"
                   alt='cosplan5'
-                  width={1020}
-                  height={688}
+                  width={1247}
+                  height={1245}
                 />
                 <div className="text-xl font-semibold mt-4 text-center">
                   Raiden Shogun
@@ -292,8 +292,8 @@ export default function Home() {
                   src="/assets/images/cosplan6.jpg"
                   loading="lazy"
                   alt='cosplan6'
-                  width={1020}
-                  height={688}
+                  width={588}
+                  height={588}
                 />
                 <div className="text-xl font-semibold mt-4 text-center">
                   Anya (Teenager)
